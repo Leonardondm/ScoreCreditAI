@@ -3,25 +3,25 @@
 ## Case: Score de Crédito dos Clientes
 Você foi contratado por um banco para desenvolver um sistema que avalia o score de crédito dos clientes. O objetivo é analisar o perfil de todos os clientes do banco e, com base nessa análise, criar um modelo de inteligência artificial capaz de classificar automaticamente o score de crédito dos clientes em três categorias: Poor, Standard e Good.
 
-### Visão Geral
+## Visão Geral
 Este repositório contém o código fonte e os dados necessários para desenvolver e treinar um modelo de classificação de score de crédito dos clientes. O projeto é dividido em várias etapas, cada uma representada por um notebook Jupyter:
 
-### Importação e Análise dos Dados
+## Importação e Análise dos Dados
 No primeiro notebook, importamos os dados dos clientes a partir de um arquivo CSV e realizamos uma análise exploratória para entender a estrutura e os padrões dos dados. Isso inclui a verificação de valores faltantes e a codificação de variáveis categóricas em formato numérico.
 
-### Preparação dos Dados
+## Preparação dos Dados
 Neste notebook, preparamos os dados para treinamento do modelo. Separamos as variáveis de entrada (features) das variáveis de saída (target). Também dividimos o conjunto de dados em conjuntos de treinamento e teste para avaliar o desempenho do modelo.
 
-### Treinamento do Modelo
+## Treinamento do Modelo
 Utilizamos três algoritmos de aprendizado de máquina para treinar modelos de classificação: Random Forest, K-Nearest Neighbors (KNN) e Redes Neurais Artificiais (RNA). Cada modelo é treinado e avaliado quanto à sua acurácia.
 
-### Avaliação do Modelo
+## Avaliação do Modelo
 Neste notebook, avaliamos o desempenho dos modelos treinados usando métricas de avaliação, como a acurácia. Comparamos os resultados dos diferentes modelos para determinar qual deles é mais adequado para o problema em questão.
 
-### Previsões em Novos Clientes
+## Previsões em Novos Clientes
 Finalmente, aplicamos o modelo escolhido para fazer previsões sobre o score de crédito de novos clientes. Os resultados são apresentados como uma classificação de Ruim, Ok ou Bom.
 
-### Importância das Características
+## Importância das Características
 Investigamos a importância das características (variáveis) usadas pelo modelo para determinar o score de crédito. Isso ajuda a entender quais fatores têm maior impacto na decisão do modelo.
 
 ## Requisitos
