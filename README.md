@@ -1,4 +1,4 @@
-# Projeto Python IA: Inteligência Artificial e Previsões
+# Projeto Python IA: Inteligência Artificial e Previsões 
 
 ## Case: Score de Crédito dos Clientes
 Você foi contratado por um banco para desenvolver um sistema que avalia o score de crédito dos clientes. O objetivo é analisar o perfil de todos os clientes do banco e, com base nessa análise, criar um modelo de inteligência artificial capaz de classificar automaticamente o score de crédito dos clientes em três categorias: Poor, Standard e Good.
